@@ -1,2 +1,1 @@
-# Loan-Prediction
-Loan Prediction 
+Create a Machine Learning Model To predict the Loan Status
